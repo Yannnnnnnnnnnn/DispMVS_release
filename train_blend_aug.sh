@@ -1,0 +1,11 @@
+python train.py --logdir ./log_blend_aug/ \
+                --dataset Blended \
+                --data_root /home/datasets/qing/mvs/BlendedMVS/ \
+                --train_list ./lists/blend/train.txt \
+                --valid_list ./lists/blend/valid.txt  \
+                --lr 0.0002 \
+                --bs 4 \
+                --iter 2 8 \
+                --views 5 \
+                --epoch 16 \
+                --views_aug \

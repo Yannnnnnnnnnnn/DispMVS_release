@@ -1,0 +1,11 @@
+python train.py --logdir ./log_dtu_aug_biglr/ \
+                --dataset DTU \
+                --data_root /home/datasets/qing/mvs/DTU/dtu_train/mvs_training/dtu/ \
+                --train_list ./lists/dtu/train.txt \
+                --valid_list ./lists/dtu/val.txt  \
+                --lr 0.0002 \
+                --bs 4 \
+                --iter 2 8 \
+                --views 5 \
+                --epoch 16 \
+                --views_aug \
