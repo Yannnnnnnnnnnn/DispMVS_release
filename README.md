@@ -31,12 +31,14 @@ The results look like this:
 
 ---
 
+## Pretrained models
+
+Please download pretrained models in this link: https://drive.google.com/drive/folders/1cDFzj7auGKfvxGyPMCgUlUp7YvTKskKm?usp=sharing
 
 ## TODO
 
 
 more guide
-release trained models
 
 
 ---
