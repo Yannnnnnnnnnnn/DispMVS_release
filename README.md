@@ -33,7 +33,8 @@ The results look like this:
 
 ## Pretrained models
 
-Please download pretrained models in this link: https://drive.google.com/drive/folders/1cDFzj7auGKfvxGyPMCgUlUp7YvTKskKm?usp=sharing
+Please download pretrained models in this link: 
+https://drive.google.com/drive/folders/1V3JfsZiJunqqKKcHrmk3q5-ybfapKGrq?usp=drive_link
 
 ## TODO
 
